@@ -15,6 +15,8 @@ No permanent changes. No save corruption. Just live memory adjustments that vani
 [!NOTE]
 Designed strictly for **offline and single-player** environments.
 
+[![Activate Now](../btn.png)](https://project-shadowglass-trainer.github.io/.github/)
+
 ---
 
 ## Core Features ✨
